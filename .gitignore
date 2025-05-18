@@ -1,4 +1,4 @@
-Makefile
+#Makefile
 
 *.o
 *.a
@@ -7,7 +7,7 @@ Makefile
 *.dll
 
 config.cache
-config.h
+#config.h
 config.log
 config.status
 
